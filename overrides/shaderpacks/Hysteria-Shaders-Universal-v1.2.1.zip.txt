@@ -1,0 +1,6 @@
+#Wed Jun 11 22:41:23 SAST 2025
+shadowMapResolution=1024
+TAAU=true
+ENTITY_SHADOWS=false
+TAAU_RENDER_SCALE=0.66
+INFO=1
