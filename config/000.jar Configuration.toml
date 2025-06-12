@@ -9,6 +9,8 @@
 	#Changes the spawn probability of the mobs
 	"Max Despawn Probability" = 3.0
 	"Enable Villager Stalker?" = true
+	#Do you want all entities around the player to despawn randomly?
+	"Despawn entities randomly?" = true
 
 ["Change Villager Stalker Spawn"]
 	#Probability of Villager Stalker spawning with respect to global time The default values have been tested. It is recommended to leave them like this 
@@ -184,4 +186,10 @@
 	Blindness = true
 	Darkness = true
 	Slowness = true
+
+["Glass and Chat"]
+	#This option is to enable or disable the glass cage that 000 and the spawning Villager cause, as well as the chat flood.
+	"Glass 000 and Villager" = true
+	#This disable Chat Flood when Eye Entity Spawns
+	"Chat Flood Eye Entity" = true
 
